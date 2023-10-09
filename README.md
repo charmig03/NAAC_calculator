@@ -1,2 +1,2 @@
 # NAAC_calculator
-It has features like user login, faculty login, and admin login. It will also have a facility where students after logging in to their accounts can see a list of books issued and their issue date and return date.
+The NAAC calculator project is an online tool that is designed to help educational institutions calculate their NAAC score. And assigns a scorebased on various parameters such as teaching and learning, research,infrastructure, student support, governance, and more.
